@@ -1,0 +1,13 @@
+name = "Patrix 32x Bonus"
+filename = "Patrix_1.19_32x_bonus.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b871baa8fb03b51f706b318ae0cdbbd66a4407ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4376214
+project-id = 785390

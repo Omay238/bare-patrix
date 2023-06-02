@@ -1,0 +1,13 @@
+name = "Patrix 32x Addon"
+filename = "Patrix_1.19_32x_addon.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e01507ec98926dba4adfdc638ad0125a5d0a5a5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4376211
+project-id = 785390

@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/colormatic.pw.toml"
+hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "290d36293a86ebdf7aec0ea84aa975eaccd7d7878b32d06fe1e0a0376d5441a5"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "10841bfee1d7ad02433dd48297d4ba5dd4bae64338e4f599bf4bfe510ddc1b29"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix-32x_addon.pw.toml"
+hash = "9c78ecca9012bc27b4ef410e578b7dfb70e93804b2bcfd99e1196f2ea4c7fd28"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix-32x_basic.pw.toml"
+hash = "cf86431c75aa17b9612b2fff982d06945bdf89e37af3e7985d25798644bc45c1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix-32x_bonus.pw.toml"
+hash = "6c4da274c0581c802e2387b0d63e8025145047ea8915591d69c1af9172b7e59c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix-32x_models.pw.toml"
+hash = "0360e4eeabb114b17a98720985360aa87262e38f490f8fd988ecd9a3fa8afc40"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "eb5d07ac1370825eaa1a35eea0b9fa53bf89f7716f7eb62b626effca4f5817b1"
+metafile = true

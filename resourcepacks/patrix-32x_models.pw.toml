@@ -1,0 +1,13 @@
+name = "Patrix Models"
+filename = "Patrix_1.19_models.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e38047977e4a4091edd26610d6e2cad694142f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4376216
+project-id = 785390
